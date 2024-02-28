@@ -2,11 +2,11 @@ The app GrappleCosmos is for journaling your thoughts. It sorts thoughts by date
 
 Written in React Native (Expo). Using [minds.com's](https://github.com/Minds/mobile-native). React Native app as a starting point in the codebase, but modified to work as a personal journal.
 
-How to Install
+```How to Install```
 
 Make sure to have Expo installed.
 Create a Supabase project: supabase.com
-Please check out the companion backend here, read its readme, and run the postgres migration files so that your Supabase instance gets updated.
+Please check out the companion backend [here](https://github.com/timothygorer/grapplecosmos-backend), read its readme, and run the postgres migration files so that your Supabase instance gets updated.
 Create a .env with:
 
 REACT_APP_SUPABASE_URL=<SUPABASE URL>
