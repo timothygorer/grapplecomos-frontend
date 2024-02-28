@@ -2,7 +2,7 @@ The app GrappleCosmos is for journaling your thoughts. It sorts thoughts by date
 
 Written in React Native (Expo). Using [minds.com's](https://github.com/Minds/mobile-native). React Native app as a starting point in the codebase, but modified to work as a personal journal.
 
-```[Demo:](https://youtu.be/W6HWchKgbKI)```
+[Demo](https://youtu.be/W6HWchKgbKI)
 
 ```How to Install```
 
