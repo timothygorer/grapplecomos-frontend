@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TwitterSyncScreen renders correctly 1`] = `
+<QueryClientProvider
+  client={
+    QueryClient {
+      "defaultOptions": {
+        "queries": {
+          "cacheTime": 0,
+          "refetchOnMount": false,
+          "refetchOnReconnect": false,
+          "refetchOnWindowFocus": false,
+          "retry": false,
+          "staleTime": 0,
+        },
+      },
+      "logger": {
+        "error": [Function],
+        "log": [Function],
+        "warn": [Function],
+      },
+      "mountCount": 0,
+      "mutationCache": MutationCache {
+        "config": {},
+        "listeners": Set {},
+        "mutationId": 0,
+        "mutations": [],
+        "subscribe": [Function],
+      },
+      "mutationDefaults": [],
+      "queryCache": QueryCache {
+        "config": {},
+        "listeners": Set {},
+        "queries": [],
+        "queriesMap": {},
+        "subscribe": [Function],
+      },
+      "queryDefaults": [],
+    }
+  }
+>
+  <TwitterSyncScreen />
+</QueryClientProvider>
+`;

@@ -1,0 +1,894 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SupermindOnboarding render consumer onboarding correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    [
+      {
+        "paddingHorizontal": 16,
+      },
+      {
+        "paddingTop": 24,
+      },
+      {
+        "paddingBottom": 24,
+      },
+    ]
+  }
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  scrollEnabled={false}
+>
+  <View>
+    <View
+      style={
+        {
+          "alignSelf": "stretch",
+          "marginBottom": 40,
+          "marginLeft": 8,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#F2F2F2",
+            },
+            {
+              "fontFamily": "Roboto_700Bold",
+            },
+            {
+              "fontSize": 18,
+              "lineHeight": 28,
+            },
+            {
+              "textAlign": "left",
+            },
+          ]
+        }
+      >
+        Get replies from your favorite creators by sending them token offers.
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "marginBottom": 32,
+          "marginRight": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 28,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "width": 28,
+              },
+              {
+                "marginTop": 4,
+              },
+            ]
+          }
+        >
+          <MaterialIcons
+            color="#AEB0B8"
+            name="attach-money"
+            size={29.12}
+            style={{}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#F2F2F2",
+              },
+              {
+                "fontFamily": "Roboto_700Bold",
+              },
+              {
+                "fontSize": 18,
+                "lineHeight": 28,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Set an offer amount
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "#b9bbc0",
+              },
+              {
+                "fontFamily": "Roboto_400Regular",
+              },
+              {
+                "fontSize": 14,
+                "lineHeight": 20,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Send an offer of tokens. The creator earns the offer amount when they reply.
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "marginBottom": 32,
+          "marginRight": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 28,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "width": 28,
+              },
+              {
+                "marginTop": 4,
+              },
+            ]
+          }
+        >
+          <MaterialIcons
+            color="#AEB0B8"
+            name="sms"
+            size={28}
+            style={{}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#F2F2F2",
+              },
+              {
+                "fontFamily": "Roboto_700Bold",
+              },
+              {
+                "fontSize": 18,
+                "lineHeight": 28,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Prompt with a public post
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "#b9bbc0",
+              },
+              {
+                "fontFamily": "Roboto_400Regular",
+              },
+              {
+                "fontSize": 14,
+                "lineHeight": 20,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          You'll make a new public post that the target creator can reply to.
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "marginBottom": 32,
+          "marginRight": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 28,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "width": 28,
+              },
+              {
+                "marginTop": 4,
+              },
+            ]
+          }
+        >
+          <MaterialIcons
+            color="#AEB0B8"
+            name="date-range"
+            size={28}
+            style={{}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#F2F2F2",
+              },
+              {
+                "fontFamily": "Roboto_700Bold",
+              },
+              {
+                "fontSize": 18,
+                "lineHeight": 28,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Get a reply
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "#b9bbc0",
+              },
+              {
+                "fontFamily": "Roboto_400Regular",
+              },
+              {
+                "fontSize": 14,
+                "lineHeight": 20,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Creators have 7 days to reply to your post. You will not be charged if they do not reply.
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[MockFunction]}
+      style={
+        [
+          [
+            {
+              "borderRadius": 100,
+              "height": 36,
+              "overflow": "hidden",
+            },
+          ],
+          undefined,
+        ]
+      }
+      testID="dismissButton"
+    >
+      <ExpoLinearGradient
+        colors={
+          [
+            "#2B52E8",
+            "#5238ED",
+            "#9B0FA8",
+          ]
+        }
+        end={
+          {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        locations={
+          [
+            0,
+            0.4,
+            1,
+          ]
+        }
+        start={
+          {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          [
+            {
+              "flex": 1,
+              "justifyContent": "center",
+            },
+            {
+              "paddingHorizontal": 8,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignSelf": "stretch",
+              "marginHorizontal": 4,
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "color": "#FFFFFF",
+                },
+                {
+                  "fontFamily": "Roboto_500Medium",
+                },
+                {
+                  "fontSize": 14,
+                  "lineHeight": 20,
+                },
+                {
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Continue
+          </Text>
+        </View>
+      </ExpoLinearGradient>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`SupermindOnboarding renders producer onboarding correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    [
+      {
+        "paddingHorizontal": 16,
+      },
+      {
+        "paddingTop": 24,
+      },
+      {
+        "paddingBottom": 24,
+      },
+    ]
+  }
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  scrollEnabled={false}
+>
+  <View>
+    <View
+      style={
+        {
+          "alignSelf": "stretch",
+          "marginBottom": 40,
+          "marginLeft": 8,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#F2F2F2",
+            },
+            {
+              "fontFamily": "Roboto_700Bold",
+            },
+            {
+              "fontSize": 18,
+              "lineHeight": 28,
+            },
+            {
+              "textAlign": "left",
+            },
+          ]
+        }
+      >
+        Get paid to reply to your fans.
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "marginBottom": 32,
+          "marginRight": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 28,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "width": 28,
+              },
+              {
+                "marginTop": 4,
+              },
+            ]
+          }
+        >
+          <MaterialIcons
+            color="#AEB0B8"
+            name="attach-money"
+            size={29.12}
+            style={{}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#F2F2F2",
+              },
+              {
+                "fontFamily": "Roboto_700Bold",
+              },
+              {
+                "fontSize": 18,
+                "lineHeight": 28,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          How to earn
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "#b9bbc0",
+              },
+              {
+                "fontFamily": "Roboto_400Regular",
+              },
+              {
+                "fontSize": 14,
+                "lineHeight": 20,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Fans send offers, which you earn by simply replying. Minds collects just a 10% platform fee (vs. 30% fees on other platforms), and our payment processor charges a small fee per transaction. See terms & conditions.
+           
+          <Text
+            onPress={[Function]}
+            style={
+              [
+                {
+                  "color": "#F2F2F2",
+                },
+                {
+                  "fontFamily": "Roboto_400Regular",
+                },
+                [
+                  {
+                    "color": "#b9bbc0",
+                  },
+                  {
+                    "textDecorationLine": "underline",
+                  },
+                ],
+              ]
+            }
+          >
+            See terms and conditions.
+          </Text>
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "marginBottom": 32,
+          "marginRight": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 28,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "width": 28,
+              },
+              {
+                "marginTop": 4,
+              },
+            ]
+          }
+        >
+          <MaterialIcons
+            color="#AEB0B8"
+            name="sms"
+            size={28}
+            style={{}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#F2F2F2",
+              },
+              {
+                "fontFamily": "Roboto_700Bold",
+              },
+              {
+                "fontSize": 18,
+                "lineHeight": 28,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          It's your content
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "#b9bbc0",
+              },
+              {
+                "fontFamily": "Roboto_400Regular",
+              },
+              {
+                "fontSize": 14,
+                "lineHeight": 20,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Your replies are public for all of your followers, so everyone benefits from the interaction.
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "marginBottom": 32,
+          "marginRight": 40,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 28,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "width": 28,
+              },
+              {
+                "marginTop": 4,
+              },
+            ]
+          }
+        >
+          <MaterialIcons
+            color="#AEB0B8"
+            name="delete"
+            size={28}
+            style={{}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "column",
+            "marginRight": 16,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#F2F2F2",
+              },
+              {
+                "fontFamily": "Roboto_700Bold",
+              },
+              {
+                "fontSize": 18,
+                "lineHeight": 28,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Limitations
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "#b9bbc0",
+              },
+              {
+                "fontFamily": "Roboto_400Regular",
+              },
+              {
+                "fontSize": 14,
+                "lineHeight": 20,
+              },
+              {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Once you accept an offer, your reply can't be deleted. And NSFW content is currently not supported with Supermind.
+           
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[MockFunction]}
+      style={
+        [
+          [
+            {
+              "borderRadius": 100,
+              "height": 36,
+              "overflow": "hidden",
+            },
+          ],
+          undefined,
+        ]
+      }
+      testID="dismissButton"
+    >
+      <ExpoLinearGradient
+        colors={
+          [
+            "#2B52E8",
+            "#5238ED",
+            "#9B0FA8",
+          ]
+        }
+        end={
+          {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        locations={
+          [
+            0,
+            0.4,
+            1,
+          ]
+        }
+        start={
+          {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        style={
+          [
+            {
+              "flex": 1,
+              "justifyContent": "center",
+            },
+            {
+              "paddingHorizontal": 8,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignSelf": "stretch",
+              "marginHorizontal": 4,
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "color": "#FFFFFF",
+                },
+                {
+                  "fontFamily": "Roboto_500Medium",
+                },
+                {
+                  "fontSize": 14,
+                  "lineHeight": 20,
+                },
+                {
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Continue
+          </Text>
+        </View>
+      </ExpoLinearGradient>
+    </View>
+  </View>
+</RCTScrollView>
+`;

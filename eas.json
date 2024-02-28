@@ -1,0 +1,26 @@
+{
+  "cli": {
+    "version": ">= 5.6.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "channel": "development"
+    },
+    "preview": {
+      "distribution": "internal",
+      "channel": "preview"
+    },
+    "production": {
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "https://lyewlhxqfiqgmbveoigl.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5ZXdsaHhxZmlxZ21idmVvaWdsIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTI3NTE1MDIsImV4cCI6MjAwODMyNzUwMn0.ZPchJBdruN-Avt_sNLIQ6ktolY6vPOD_OuQ4Wp5c2rE"
+      },
+      "channel": "production"
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

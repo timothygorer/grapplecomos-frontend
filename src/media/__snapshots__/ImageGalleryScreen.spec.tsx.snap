@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageGalleryScreen should render correctly 1`] = `
+<View>
+  <View
+    animate={
+      {
+        "transform": [
+          {
+            "translateY": -100,
+          },
+        ],
+      }
+    }
+    style={
+      {
+        "transform": [
+          {
+            "translateY": -100,
+          },
+        ],
+      }
+    }
+    transition={
+      {
+        "mass": 0.3,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "zIndex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "margin": 16,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "marginRight": 8,
+                "position": "relative",
+              }
+            }
+          >
+            <View
+              accessibilityState={
+                {
+                  "busy": undefined,
+                  "checked": undefined,
+                  "disabled": undefined,
+                  "expanded": undefined,
+                  "selected": undefined,
+                }
+              }
+              accessibilityValue={
+                {
+                  "max": undefined,
+                  "min": undefined,
+                  "now": undefined,
+                  "text": undefined,
+                }
+              }
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              hitSlop={9.333333333333332}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                  }
+                }
+              >
+                <View
+                  style={
+                    [
+                      {
+                        "alignItems": "center",
+                        "flexDirection": "row",
+                        "height": 28,
+                        "justifyContent": "center",
+                        "overflow": "hidden",
+                        "width": 28,
+                      },
+                    ]
+                  }
+                >
+                  <Text
+                    allowFontScaling={false}
+                    selectable={false}
+                    style={
+                      [
+                        {
+                          "color": "#AEB0B8",
+                          "fontSize": 25.76,
+                        },
+                        {},
+                        {
+                          "fontFamily": "Material Icons",
+                          "fontStyle": "normal",
+                          "fontWeight": "normal",
+                        },
+                        {},
+                      ]
+                    }
+                  >
+                    
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      containerDimensions={
+        {
+          "height": 1134,
+          "width": 750,
+        }
+      }
+      data={
+        [
+          {
+            "src": "http://fake.com0",
+          },
+          {
+            "src": "http://fake.com1",
+          },
+        ]
+      }
+      onScaleChange={[Function]}
+      onSwipeToClose={[Function]}
+      renderItem={[Function]}
+      style={
+        {
+          "backgroundColor": "#1C1D1F",
+        }
+      }
+    />
+    <View
+      animate={
+        {
+          "transform": [
+            {
+              "translateY": 100,
+            },
+          ],
+        }
+      }
+      style={
+        [
+          {
+            "backgroundColor": "#1C1D1F",
+          },
+          {
+            "transform": [
+              {
+                "translateY": 100,
+              },
+            ],
+          },
+        ]
+      }
+      transition={
+        {
+          "mass": 0.3,
+        }
+      }
+    />
+  </View>
+</View>
+`;
