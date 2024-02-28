@@ -4,7 +4,7 @@ Written in React Native (Expo). Using [minds.com's](https://github.com/Minds/mob
 
 ```Demo:```
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://ganuzewclofznngefedc.supabase.co/storage/v1/object/public/test/RPReplay_Final1709158869.mov?t=2024-02-28T22%3A32%3A33.542Z)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/W6HWchKgbKI)
 
 ```How to Install```
 
