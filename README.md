@@ -4,7 +4,7 @@ Written in React Native (Expo). Using [minds.com's](https://github.com/Minds/mob
 
 ```Demo:```
 
-![Alt Text](https://media.giphy.com/media/wQT76wKxKW2fXugFf5/giphy.gif)
+[Click here to watch the video demo](https://ganuzewclofznngefedc.supabase.co/storage/v1/object/public/test/RPReplay_Final1709158869.mov?t=2024-02-28T22%3A32%3A33.542Z)
 
 
 
