@@ -13,8 +13,9 @@ Written in React Native (Expo). Using several files from [minds.com's](https://g
 Create a .env with:
 
 ```
-REACT_APP_SUPABASE_URL=<SUPABASE URL>
-REACT_APP_SUPABASE_ANON_KEY=<SUPABASE ANON KEY>
+EXPO_PUBLIC_SUPABASE_URL=
+EXPO_PUBLIC_SUPABASE_ANON_KEY=
+
 ```
 
 1. ```yarn install```
